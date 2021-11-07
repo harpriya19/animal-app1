@@ -1,0 +1,24 @@
+body{
+    background-image: linear-gradient( 109.6deg,  rgba(247,253,166,1) 11.2%, rgba(128,255,221,1) 57.8%, rgba(255,128,249,1) 85.9% );
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+.header_div{
+color: rgb(124, 124, 214);
+}
+.header_div p {
+    font-family: 'Dongle', sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+.main_div button {
+    margin-top: 5px;
+    width: 50px;
+    font-weight: 100;
+    letter-spacing: 1px;
+}
+.copy_right_footer{
+    width: max-content;
+    margin-top: 20px;
+    
+}
